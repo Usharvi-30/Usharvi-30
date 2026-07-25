@@ -4,9 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/usharvi-banerji-5b8a17328)
 
 ---
-
-### 🧬 About Me
-
 Pre-final year B.Tech Biotechnology student and computational biology researcher with hands-on experience in metagenomics, functional annotation, and molecular modeling. Previously gained research experience through internships at IIT Madras, alongside industrial exposure at Zydus Lifesciences and Sterling Accuris Diagnostics. Passionate about bridging wet-lab biology with data science, leveraging Python, Bash, and advanced bioinformatics workflows to decode complex biological datasets. Currently expanding expertise into machine learning and multi-omics analysis.
 
 
@@ -14,7 +11,7 @@ Pre-final year B.Tech Biotechnology student and computational biology researcher
 
 ### 💻 Tech Stack
 
-* **Languages:** Python, Bash, 
+* **Languages:** Python, Bash
 
 
 <!--
